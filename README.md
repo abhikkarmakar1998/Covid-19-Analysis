@@ -7,18 +7,18 @@ This project explores the dataset from Worldometer to understand country-wise tr
 
 ##  Project Structure
 
-covid-19_analysis/
+Covid-19-Analysis/
 │
-├──  Data
-│   └── worldometer_data.csv
+├── data/
+│   └── worldometer_data.csv          # Raw dataset
 │
-├──  Notebook
-│   └── worldometer.ipynb
+├── notebook/
+│   └── worldometer.ipynb        # Jupyter notebook with analysis
 │
-├──  Images
-│   └── *.png
+├── images/
+│   └── *.png                   # Visualizations generated from analysis
 │
-└──  README.md
+└── README.md                   # Project documentation
 
 --------------------------------------------------------------------
 
